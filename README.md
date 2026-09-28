@@ -1,159 +1,91 @@
-# MAHFOOZ ALAM
-
-<div align="center">
-
-### N Y R O X
-
-<b>Independent developer · product builder · streaming systems</b>
-
-I build polished media products from the interface to the infrastructure —<br/>
-with a focus on <b>experience, performance, and the details people actually notice.</b>
-
-<br/>
-
-<a href="https://github.com/Nyyrox/Zenkai">Zenkai</a>
-&nbsp;·&nbsp;
-<a href="https://cineverse-det.pages.dev">Cineverse</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Nyyrox">GitHub</a>
-
-</div>
-
-<br/>
+# Mahfooz Alam
 
 ---
 
-## SELECTED WORK
+> *Nyyrox — building media products with an eye for the details.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+— **CURRENTLY**  
+Building **Zenkai**, a native-focused anime, manga & novel platform, while evolving **Cineverse** into a faster cinematic streaming experience.
 
-### 01 / ZENKAI
+— **ELSEWHERE**  
+[@Nyyrox](https://github.com/Nyyrox) · [Zenkai](https://github.com/Nyyrox/Zenkai) · [Cineverse](https://cineverse-det.pages.dev)
 
-<b>Anime · Manga · Novels · Android</b>
+— **WORK**
 
-A native-focused media platform built around a clean reading and watching experience.
+1. **Zenkai** — A native Android media platform for anime, manga and novels, built around watching, reading, downloading and personal libraries.
+2. **Cineverse** — A cinematic movie & TV platform focused on discovery, metadata, multi-provider resolution and a minimal playback experience.
 
-<br/>
+---
 
-<b>What makes it different</b>
+## ZENKAI
 
+**Anime · Manga · Novels · Android**
+
+Zenkai is the main product I'm building — a single place to watch anime, read manga and novels, save content and keep track of what you're consuming.
+
+**Watching**
 - Multi-server anime playback
-- Anime episode downloads
-- Manga reading + progress tracking
-- Novel reading
-- Picture-in-Picture playback
+- Direct stream playback
+- Picture-in-Picture
+- Playback optimizations
 - Caption translation
-- Watchlist & personal library
+- Smart playback state handling
+
+**Reading**
+- Manga reader
+- Manga reading progress
+- Novel reading
+- Personal library and watchlist
+
+**Offline**
+- Anime episode downloads
+- Download manager
+- Downloaded episode storage
+- Improved download reliability and scrolling
+- Local episode visibility and management
+
+**Connected**
 - Community features
 - Discord Rich Presence
-- Customizable viewing experience
-- Optimized playback and download flows
+- Account-based library
+- Customization and personalization
 
-<br/>
+[VIEW ZENKAI →](https://github.com/Nyyrox/Zenkai)
 
-<b>Stack</b>
+---
 
-Kotlin · Android · WebView · Media Playback · APIs
+## CINEVERSE
 
-<br/>
+**Movies · TV · Streaming**
 
-<a href="https://github.com/Nyyrox/Zenkai">VIEW REPOSITORY →</a>
+Cineverse is the second focused product: a cinematic discovery and playback platform for movies and TV.
 
-</td>
-
-<td width="50%" valign="top">
-
-### 02 / CINEVERSE
-
-<b>Movies · TV · Multi-provider playback</b>
-
-A cinematic movie and TV platform focused on fast discovery, provider resolution, and a minimal viewing flow.
-
-<br/>
-
-<b>Built around</b>
-
+**Core**
 - Movie & TV discovery
-- TMDB-powered metadata
+- TMDB metadata
 - Multi-provider resolution
 - Stream extraction pipeline
-- FastAPI backend services
-- Playwright-powered tooling
-- Responsive cinematic interface
+- FastAPI services
+- Playwright tooling
+- Responsive cinematic UI
 
-<br/>
-
-<b>Stack</b>
-
-React · TypeScript · FastAPI · Playwright · TMDB · Railway
-
-<br/>
-
-<a href="https://cineverse-det.pages.dev">OPEN CINEVERSE →</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
+[OPEN CINEVERSE →](https://cineverse-det.pages.dev)
 
 ---
 
-## THE BUILDING BLOCKS
+## BUILDING BLOCKS
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**PRODUCT**  
+UI / UX · responsive interfaces · media players · reading experiences · motion · interaction design
 
-### PRODUCT
+**ENGINEERING**  
+Kotlin · Android · React · TypeScript · JavaScript · Python · Node.js · APIs · databases
 
-Interfaces that feel intentional.
+**INFRASTRUCTURE**  
+Cloudflare · Railway · Supabase · Vercel · GitHub · Linux · deployment pipelines
 
-<b>UI / UX</b><br/>
-Editorial layouts · motion · responsive design · media players · reading interfaces
-
-</td>
-<td width="33%" valign="top">
-
-### ENGINEERING
-
-Systems that survive real usage.
-
-<b>Core</b><br/>
-TypeScript · Kotlin · React · APIs · databases · media pipelines
-
-</td>
-<td width="33%" valign="top">
-
-### INFRA
-
-The invisible part users never see.
-
-<b>Infrastructure</b><br/>
-Cloudflare · Railway · Supabase · Vercel · GitHub · Linux
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## CURRENTLY BUILDING
-
-<div align="center">
-
-| PROJECT | FOCUS | STATUS |
-|:---|:---|:---|
-| <b>ZENKAI</b> | Anime · Manga · Novels · Android | <code>ACTIVE</code> |
-| <b>CINEVERSE</b> | Movies · TV · Streaming | <code>ACTIVE</code> |
-
-</div>
-
-<br/>
+**MEDIA**  
+HLS · DASH · WebView playback · stream resolution · subtitles · downloads
 
 ---
 
@@ -161,19 +93,19 @@ Cloudflare · Railway · Supabase · Vercel · GitHub · Linux
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D contribution graph" />
 
 </div>
 
-<br/>
+---
+
+## GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyyrox&bg_color=0d1117&color=9aa4b2&line=7c5cff&point=ffffff&area=true&hide_border=true&radius=8" width="94%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyyrox&bg_color=0d1117&color=9aa4b2&line=7c5cff&point=ffffff&area=true&hide_border=true&radius=8" width="96%" alt="GitHub activity graph" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -181,86 +113,32 @@ Cloudflare · Railway · Supabase · Vercel · GitHub · Linux
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,js,tailwind,python,nodejs,fastapi,supabase,cloudflare,railway,vercel,git,github,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,js,tailwind,python,nodejs,fastapi,supabase,cloudflare,railway,vercel,git,github,linux&theme=dark&perline=8" alt="Technology stack" />
 
 </div>
 
-<br/>
-
 ---
 
-## BUILD PHILOSOPHY
+## HOW I BUILD
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**01 — EXPERIENCE FIRST**  
+The interface should feel deliberate before the feature list gets impressive.
 
-<b>01 — MAKE IT FEEL GOOD</b>
+**02 — OWN THE SYSTEM**  
+Frontend, backend, APIs, Android, media pipelines and deployment all belong to the same product.
 
-A technically correct product is only the starting point.<br/>
-Spacing, motion, hierarchy, feedback and tiny interactions matter.
+**03 — REMOVE THE NOISE**  
+Features should make the core experience better, not make the interface busier.
 
-</td>
-<td width="50%" valign="top">
-
-<b>02 — KEEP IT USEFUL</b>
-
-Every feature has to earn its place.<br/>
-Less noise. Better flows. Faster access to the thing the user came for.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<b>03 — OWN THE STACK</b>
-
-Frontend, backend, APIs, deployment, Android, debugging —<br/>
-I prefer understanding the whole system rather than one isolated layer.
-
-</td>
-<td width="50%" valign="top">
-
-<b>04 — SHIP, THEN REPEAT</b>
-
-Build → test → break → fix → polish → ship.<br/>
-The product gets better through iteration.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nyyrox&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=7C5CFF&rank_icon=github&include_all_commits=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Nyyrox&theme=dark&hide_border=true&background=0D1117&ring=7C5CFF&fire=7C5CFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" width="48%" />
-
-</div>
-
-<br/>
+**04 — SHIP AND ITERATE**  
+Build → test → break → fix → polish → ship.
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING PEOPLE ACTUALLY WANT TO USE.
-
-<br/>
-
-<a href="https://github.com/Nyyrox/Zenkai">ZENKAI</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://cineverse-det.pages.dev">CINEVERSE</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Nyyrox">GITHUB</a>
-
-<br/><br/>
-
-<sub>Designed, built and shipped by Nyyrox.</sub>
+[ZENKAI](https://github.com/Nyyrox/Zenkai) · [CINEVERSE](https://cineverse-det.pages.dev) · [GITHUB](https://github.com/Nyyrox)
 
 </div>
+
+<sub>issue №01 · 2026 · written in this README</sub>
