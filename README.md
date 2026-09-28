@@ -22,19 +22,34 @@
 
 ## SELECTED WORK
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Nyyrox/Zenkai">
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/zenkai-card.svg" width="100%" alt="Zenkai editorial product card" />
+<img src="https://img2link.com/images/2026/09/28/bb593afe889488619ab18199eb079c79.jpg" width="100%" alt="Zenkai app screenshot" />
 </a>
 
-<br/><br/>
+<br/>
+
+<b>ZENKAI</b><br/>
+<sub>Anime · Manga · Novels · Android</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
 
 <a href="https://cineverse-det.pages.dev">
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/cineverse-card.svg" width="100%" alt="Cineverse editorial product card" />
+<img src="https://img2link.com/images/2026/09/28/b1e0cca654cae119b6a828f0c85c0f49.jpg" width="100%" alt="Cineverse app screenshot" />
 </a>
 
-</div>
+<br/>
+
+<b>CINEVERSE</b><br/>
+<sub>Movies · TV · Streaming</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
