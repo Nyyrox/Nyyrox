@@ -1,28 +1,9 @@
-<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15111D"/><stop offset="1" stop-color="#241A31"/></linearGradient>
-<clipPath id="cine"><rect x="82" y="250" width="250" height="350" rx="22"/></clipPath>
-</defs>
-<rect width="1200" height="700" rx="24" fill="#0B0D12"/>
-<rect x="24" y="24" width="1152" height="652" rx="20" fill="url(#cg)" stroke="#3A3048"/>
-<text x="64" y="82" fill="#9C8EAA" font-family="monospace" font-size="14" letter-spacing="3">02 / CINEMATIC STREAMING PLATFORM</text>
-<text x="64" y="142" fill="#FBF8FC" font-family="Georgia, serif" font-size="54" font-weight="700">CINEVERSE</text>
-<text x="64" y="178" fill="#B5AEBE" font-family="Arial" font-size="18">Discover movies and TV without the clutter.</text>
-<rect x="64" y="218" width="1072" height="1" fill="#493E53"/>
-
-<rect x="82" y="250" width="250" height="350" rx="22" fill="#070A10" stroke="#4A3D55" stroke-width="2"/>
-<image href="https://img2link.com/images/2026/09/28/b1e0cca654cae119b6a828f0c85c0f49.jpg" x="82" y="250" width="250" height="350" preserveAspectRatio="xMidYMid slice" clip-path="url(#cine)"/>
-<rect x="82" y="250" width="250" height="350" rx="22" fill="none" stroke="#4A3D55" stroke-width="2"/>
-<rect x="181" y="258" width="52" height="5" rx="3" fill="#111722" opacity=".9"/>
-
-<rect x="362" y="250" width="774" height="350" rx="18" fill="#100E16" stroke="#3B3047"/>
-<text x="390" y="286" fill="#8E8397" font-family="monospace" font-size="12" letter-spacing="2">CINEVERSE / PLATFORM</text>
-<text x="390" y="330" fill="#F5F0F7" font-family="Arial" font-size="19" font-weight="700">MOVIE + TV DISCOVERY</text>
-<text x="390" y="364" fill="#F5F0F7" font-family="Arial" font-size="19">TMDB METADATA</text>
-<text x="390" y="398" fill="#F5F0F7" font-family="Arial" font-size="19">MULTI-PROVIDER RESOLUTION</text>
-<text x="390" y="432" fill="#F5F0F7" font-family="Arial" font-size="19">STREAM EXTRACTION</text>
-<text x="390" y="466" fill="#F5F0F7" font-family="Arial" font-size="19">FASTAPI + PLAYWRIGHT</text>
-<text x="390" y="500" fill="#F5F0F7" font-family="Arial" font-size="19">REACT + TYPESCRIPT</text>
-<line x1="390" y1="542" x2="1108" y2="542" stroke="#3B3047"/>
-<text x="390" y="575" fill="#807588" font-family="monospace" font-size="13">CINEVERSE-DET.PAGES.DEV · MOVIES · TV</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b1328"/><stop offset="1" stop-color="#2b1b36"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".45"/></filter><clipPath id="c"><rect x="105" y="84" width="300" height="520" rx="30"/></clipPath><style>.t{font:600 12px Arial;letter-spacing:3px;fill:#a69ab5}.h{font:700 46px Arial;fill:#f7f9fc}.p{font:16px Arial;fill:#c2b7ce}.f{font:600 18px Arial;fill:#f0eaf5}.l{font:700 12px Arial;letter-spacing:2px;fill:#a69ab5}</style></defs>
+<rect x="10" y="10" width="1180" height="600" rx="34" fill="url(#g)" stroke="#3a2c46" stroke-width="2"/>
+<text x="62" y="60" class="t">02 / CINEMATIC STREAMING PLATFORM</text><text x="62" y="115" class="h">CINEVERSE</text><text x="62" y="145" class="p">Discover movies and TV without the clutter.</text><line x1="62" y1="178" x2="1138" y2="178" stroke="#4a3857"/>
+<rect x="88" y="68" width="334" height="552" rx="42" fill="#080b12" stroke="#655574" stroke-width="2" filter="url(#s)"/><rect x="105" y="84" width="300" height="520" rx="30" fill="#0b0e15"/>
+<image x="105" y="84" width="300" height="520" preserveAspectRatio="xMidYMid slice" clip-path="url(#c)" href="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/cineverse-screen.jpg"/><rect x="225" y="91" width="60" height="7" rx="3.5" fill="#111722"/>
+<rect x="465" y="218" width="660" height="285" rx="24" fill="#0a0e17" stroke="#463850"/><text x="500" y="258" class="l">CINEVERSE / PLATFORM</text>
+<text x="500" y="300" class="f">MOVIE + TV DISCOVERY</text><text x="500" y="342" class="f">TMDB METADATA</text><text x="500" y="384" class="f">MULTI-PROVIDER RESOLUTION</text><text x="500" y="426" class="f">STREAM EXTRACTION</text><text x="500" y="468" class="f">FASTAPI + PLAYWRIGHT</text><text x="500" y="510" class="f">REACT + TYPESCRIPT</text>
+<line x1="500" y1="545" x2="1090" y2="545" stroke="#382d42"/><text x="500" y="578" class="l">CINEVERSE-DET.PAGES.DE · MOVIES · TV</text></svg>
