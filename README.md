@@ -1,131 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0D0F,50:1B2838,100:5B4CFF&height=200&section=header&text=Mahfooz%20Alam&fontSize=52&fontColor=F8F9FB&animation=fadeIn&fontAlignY=38&desc=Building%20cinematic%20streaming%20platforms%20%E2%80%94%20solo.&descAlignY=58&descSize=16&descColor=8792A0" width="100%"/>
+# MAHFOOZ ALAM
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mahfooz9835648120&style=flat-square&color=5B4CFF&label=PROFILE+VIEWS" />
+### N Y R O X
 
-<br/><br/>
+<b>Independent developer · product builder · streaming systems</b>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=680&lines=React+%C2%B7+TypeScript+%C2%B7+Cloudflare+Workers+%C2%B7+Supabase;Anime+%7C+Movies+%7C+Live+Sports+%E2%80%94+all+under+one+roof;Every+pixel%2C+every+Worker%2C+every+deploy+%E2%80%94+mine." alt="Typing SVG" />
-</a>
-
-</div>
+I build polished media products from the interface to the infrastructure —<br/>
+with a focus on <b>experience, performance, and the details people actually notice.</b>
 
 <br/>
 
-<table align="center" width="94%">
-<tr>
-<td valign="top" width="56%">
-
-### About me
-
-I design and build **interconnected streaming platforms** end-to-end — frontend, backend, and native Android wrappers — as a solo developer. No team, no hand-offs: every pixel, provider integration, and Cloudflare Worker is mine to own.
-
-- 🍥 **[Aniverse](https://aniversee.vercel.app)** — anime streaming powered by AniList GraphQL, Supabase, and a custom multi-provider edge backend
-- ⚽ **[StreamVerse Live](https://streamverse-live.pages.dev)** — live sports with real-time scorecards, FotMob-style shot maps, and World Cup 2026 coverage
-- 🎞️ **[Cineverse](https://cineverse-sigma-seven.vercel.app)** — cinematic movie & TV aggregator with Playwright-backed stream sniffing
-- 🌐 **[StreamVerse](https://www.streamverse.fun)** — the central hub tying it all together
-
-I care about **design restraint** — dark, cinematic UIs where animation signals meaning instead of decorating.
-
-</td>
-<td valign="top" width="44%">
-
-### Currently Building
-
-```yaml
-🌐  StreamVerse       main hub
-⚽  StreamVerse Live  World Cup 2026
-🎞️  Cineverse         movies & TV
-🍥  Aniverse          anime platform
-```
-
-```yaml
-role:    Solo Full-Stack Developer
-stack:   React · TS · Vite · Supabase
-infra:   Cloudflare Workers · Railway
-native:  Capacitor → Android APKs
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-### Projects
-
-</div>
-
-<table align="center" width="94%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-**[Aniverse](https://aniversee.vercel.app)**
-
-<a href="https://aniversee.vercel.app">
-<img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/main/assets/aniverse.jpg" width="100%"/>
-</a>
-
-<sub>AniList GraphQL · Supabase · HLS/DASH · Shaka Player · Social DMs</sub>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**[StreamVerse Live](https://streamverse-live.pages.dev)**
-
-<a href="https://streamverse-live.pages.dev">
-<img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/main/assets/streamverse-live.jpg" width="100%"/>
-</a>
-
-<sub>FotMob API · World Cup 2026 · Live Scores · Shot Maps · Cloudflare Pages</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**[Cineverse](https://cineverse-sigma-seven.vercel.app)**
-
-<a href="https://cineverse-sigma-seven.vercel.app">
-<img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/main/assets/cineverse.jpg" width="100%"/>
-</a>
-
-<sub>FastAPI · Playwright · Railway · TMDB · Multi-provider resolution</sub>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**[StreamVerse](https://www.streamverse.fun)**
-
-<a href="https://www.streamverse.fun">
-<img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/main/assets/streamverse.jpg" width="100%"/>
-</a>
-
-<sub>Unified auth · Shared watchlists · Anime + Movies + Live Sports</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-### Tech Stack
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase,cloudflare,py,nodejs&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,androidstudio,graphql,postgres,docker,linux&theme=dark&perline=8" />
+<a href="https://github.com/Nyyrox/Zenkai">Zenkai</a>
+&nbsp;·&nbsp;
+<a href="https://cineverse-det.pages.dev">Cineverse</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Nyyrox">GitHub</a>
 
 </div>
 
@@ -133,28 +23,75 @@ native:  Capacitor → Android APKs
 
 ---
 
-<div align="center">
+## SELECTED WORK
 
-### How I use AI
-
-</div>
-
-<table align="center" width="94%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-**Where it accelerates me**
-- Boilerplate — component scaffolding, SQL migrations, Worker stubs
-- Debugging HLS/DASH edge cases, WebView quirks, Playwright pipelines
-- Complex regex, API parsers, provider integration strategies
+### 01 / ZENKAI
+
+<b>Anime · Manga · Novels · Android</b>
+
+A native-focused media platform built around a clean reading and watching experience.
+
+<br/>
+
+<b>What makes it different</b>
+
+- Multi-server anime playback
+- Anime episode downloads
+- Manga reading + progress tracking
+- Novel reading
+- Picture-in-Picture playback
+- Caption translation
+- Watchlist & personal library
+- Community features
+- Discord Rich Presence
+- Customizable viewing experience
+- Optimized playback and download flows
+
+<br/>
+
+<b>Stack</b>
+
+Kotlin · Android · WebView · Media Playback · APIs
+
+<br/>
+
+<a href="https://github.com/Nyyrox/Zenkai">VIEW REPOSITORY →</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-**What stays mine**
-- Architecture, provider integrations, UX direction — always my call
-- Media streaming · Cloudflare Workers · GraphQL · UI/UX · Performance
-- Every output reviewed, adapted, and owned before it ships
+### 02 / CINEVERSE
+
+<b>Movies · TV · Multi-provider playback</b>
+
+A cinematic movie and TV platform focused on fast discovery, provider resolution, and a minimal viewing flow.
+
+<br/>
+
+<b>Built around</b>
+
+- Movie & TV discovery
+- TMDB-powered metadata
+- Multi-provider resolution
+- Stream extraction pipeline
+- FastAPI backend services
+- Playwright-powered tooling
+- Responsive cinematic interface
+
+<br/>
+
+<b>Stack</b>
+
+React · TypeScript · FastAPI · Playwright · TMDB · Railway
+
+<br/>
+
+<a href="https://cineverse-det.pages.dev">OPEN CINEVERSE →</a>
 
 </td>
 </tr>
@@ -164,18 +101,145 @@ native:  Capacitor → Android APKs
 
 ---
 
-<div align="center">
+## THE BUILDING BLOCKS
 
-### GitHub Stats
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### PRODUCT
+
+Interfaces that feel intentional.
+
+<b>UI / UX</b><br/>
+Editorial layouts · motion · responsive design · media players · reading interfaces
+
+</td>
+<td width="33%" valign="top">
+
+### ENGINEERING
+
+Systems that survive real usage.
+
+<b>Core</b><br/>
+TypeScript · Kotlin · React · APIs · databases · media pipelines
+
+</td>
+<td width="33%" valign="top">
+
+### INFRA
+
+The invisible part users never see.
+
+<b>Infrastructure</b><br/>
+Cloudflare · Railway · Supabase · Vercel · GitHub · Linux
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahfooz9835648120&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&icon_color=5B4CFF&text_color=8792A0&border_color=21262D&count_private=true&hide_border=false&rank_icon=github" width="47%" />
-<img src="https://streak-stats.demolab.com/?user=Mahfooz9835648120&theme=dark&background=0D1117&stroke=21262D&ring=5B4CFF&fire=7C4DFF&currStreakLabel=ffffff&border=21262D&dates=8792A0&currStreakNum=ffffff&sideLabels=8792A0&sideNums=ffffff" width="47%" />
+---
 
-<br/><br/>
+## CURRENTLY BUILDING
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfooz9835648120&bg_color=0D1117&color=8792A0&line=5B4CFF&point=ffffff&area=true&area_color=5B4CFF&hide_border=true&radius=6" width="94%" />
+<div align="center">
+
+| PROJECT | FOCUS | STATUS |
+|:---|:---|:---|
+| <b>ZENKAI</b> | Anime · Manga · Novels · Android | <code>ACTIVE</code> |
+| <b>CINEVERSE</b> | Movies · TV · Streaming | <code>ACTIVE</code> |
+
+</div>
+
+<br/>
+
+---
+
+## CONTRIBUTION STACK
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyyrox&bg_color=0d1117&color=9aa4b2&line=7c5cff&point=ffffff&area=true&hide_border=true&radius=8" width="94%" alt="GitHub activity graph" />
+
+</div>
+
+<br/>
+
+---
+
+## TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,js,tailwind,python,nodejs,fastapi,supabase,cloudflare,railway,vercel,git,github,linux&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+---
+
+## BUILD PHILOSOPHY
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>01 — MAKE IT FEEL GOOD</b>
+
+A technically correct product is only the starting point.<br/>
+Spacing, motion, hierarchy, feedback and tiny interactions matter.
+
+</td>
+<td width="50%" valign="top">
+
+<b>02 — KEEP IT USEFUL</b>
+
+Every feature has to earn its place.<br/>
+Less noise. Better flows. Faster access to the thing the user came for.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b>03 — OWN THE STACK</b>
+
+Frontend, backend, APIs, deployment, Android, debugging —<br/>
+I prefer understanding the whole system rather than one isolated layer.
+
+</td>
+<td width="50%" valign="top">
+
+<b>04 — SHIP, THEN REPEAT</b>
+
+Build → test → break → fix → polish → ship.<br/>
+The product gets better through iteration.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nyyrox&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=7C5CFF&rank_icon=github&include_all_commits=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Nyyrox&theme=dark&hide_border=true&background=0D1117&ring=7C5CFF&fire=7C5CFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" width="48%" />
 
 </div>
 
@@ -185,30 +249,18 @@ native:  Capacitor → Android APKs
 
 <div align="center">
 
-### Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Mahfooz9835648120/Mahfooz9835648120/output/github-contribution-grid-snake-dark.svg" width="94%" />
-
-</div>
+### LET'S BUILD SOMETHING PEOPLE ACTUALLY WANT TO USE.
 
 <br/>
 
----
-
-<div align="center">
-
-<a href="https://www.streamverse.fun"><img src="https://img.shields.io/badge/StreamVerse-www.streamverse.fun-5B4CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://streamverse-live.pages.dev"><img src="https://img.shields.io/badge/StreamVerse_Live-Live%20App-FF4C6A?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
-<a href="https://aniversee.vercel.app"><img src="https://img.shields.io/badge/Aniverse-Live%20App-5BE3FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://cineverse-sigma-seven.vercel.app"><img src="https://img.shields.io/badge/Cineverse-Live%20App-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://t.me/StreamVerseofc"><img src="https://img.shields.io/badge/Telegram-@StreamVerseofc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/Nyyrox/Zenkai">ZENKAI</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://cineverse-det.pages.dev">CINEVERSE</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Nyyrox">GITHUB</a>
 
 <br/><br/>
 
-<sub>Building streaming experiences that feel as premium as native apps.</sub>
+<sub>Designed, built and shipped by Nyyrox.</sub>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4CFF,50:1B2838,100:0C0D0F&height=120&section=footer" width="100%"/>
