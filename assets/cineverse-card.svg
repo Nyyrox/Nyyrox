@@ -1,0 +1,27 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15111D"/><stop offset="1" stop-color="#241A31"/></linearGradient></defs>
+<rect width="1200" height="700" rx="24" fill="#0B0D12"/>
+<rect x="24" y="24" width="1152" height="652" rx="20" fill="url(#cg)" stroke="#3A3048"/>
+<text x="64" y="82" fill="#9C8EAA" font-family="monospace" font-size="14" letter-spacing="3">02 / CINEMATIC STREAMING PLATFORM</text>
+<text x="64" y="142" fill="#FBF8FC" font-family="Georgia, serif" font-size="54" font-weight="700">CINEVERSE</text>
+<text x="64" y="178" fill="#B5AEBE" font-family="Arial" font-size="18">Discover movies and TV without the clutter.</text>
+<rect x="64" y="218" width="1072" height="1" fill="#493E53"/>
+<rect x="64" y="252" width="1072" height="300" rx="18" fill="#100E16" stroke="#3B3047"/>
+<rect x="88" y="276" width="310" height="252" rx="14" fill="#211A29"/>
+<rect x="420" y="276" width="330" height="116" rx="14" fill="#18131F"/>
+<text x="448" y="312" fill="#F5F0F7" font-family="Arial" font-size="21" font-weight="700">Movie & TV discovery</text>
+<text x="448" y="344" fill="#8E8397" font-family="Arial" font-size="14">Metadata · search · details</text>
+<rect x="420" y="412" width="330" height="116" rx="14" fill="#18131F"/>
+<text x="448" y="448" fill="#F5F0F7" font-family="Arial" font-size="21" font-weight="700">Provider resolution</text>
+<text x="448" y="480" fill="#8E8397" font-family="Arial" font-size="14">FastAPI · Playwright · streams</text>
+<rect x="772" y="276" width="340" height="252" rx="14" fill="#18131F"/>
+<text x="800" y="314" fill="#8E8397" font-family="monospace" font-size="12" letter-spacing="2">STACK</text>
+<text x="800" y="356" fill="#F5F0F7" font-family="Arial" font-size="18">React</text>
+<text x="800" y="388" fill="#F5F0F7" font-family="Arial" font-size="18">TypeScript</text>
+<text x="800" y="420" fill="#F5F0F7" font-family="Arial" font-size="18">FastAPI</text>
+<text x="800" y="452" fill="#F5F0F7" font-family="Arial" font-size="18">Playwright</text>
+<text x="800" y="484" fill="#F5F0F7" font-family="Arial" font-size="18">TMDB</text>
+<line x1="64" y1="584" x2="1136" y2="584" stroke="#3B3047"/>
+<text x="64" y="620" fill="#807588" font-family="monospace" font-size="13">CINEVERSE-DET.PAGES.DEV</text>
+<text x="900" y="620" fill="#807588" font-family="monospace" font-size="13">MOVIES · TV · STREAMING</text>
+</svg>
