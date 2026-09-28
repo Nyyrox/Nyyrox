@@ -38,70 +38,17 @@
 
 ---
 
-## THE WORK
+## LINKS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### ZENKAI
+<a href="https://github.com/Nyyrox/Zenkai">ZENKAI →</a>
+&nbsp; · &nbsp;
+<a href="https://cineverse-det.pages.dev">CINEVERSE →</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Nyyrox">GITHUB →</a>
 
-<b>Anime · Manga · Novels · Android</b>
-
-A media platform built around watching, reading, downloading and keeping a personal library in one place.
-
-<b>WATCH</b><br/>
-Multi-server playback · direct streams · PiP · playback optimization · caption translation
-
-<br/><br/>
-
-<b>READ</b><br/>
-Manga reader · reading progress · novel reader · personal library
-
-<br/><br/>
-
-<b>OFFLINE</b><br/>
-Episode downloads · download manager · storage management · local episode visibility
-
-<br/><br/>
-
-<b>CONNECTED</b><br/>
-Community · Discord Rich Presence · accounts · customization
-
-<br/><br/>
-
-<a href="https://github.com/Nyyrox/Zenkai">VIEW REPOSITORY →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### CINEVERSE
-
-<b>Movies · TV · Streaming</b>
-
-A cinematic discovery and playback platform designed around fast metadata, provider resolution and a clean viewing flow.
-
-<b>DISCOVER</b><br/>
-Movies · TV · search · details · TMDB metadata
-
-<br/><br/>
-
-<b>RESOLVE</b><br/>
-Multi-provider resolution · stream extraction · FastAPI services
-
-<br/><br/>
-
-<b>ENGINEER</b><br/>
-React · TypeScript · Playwright · Railway
-
-<br/><br/>
-
-<a href="https://cineverse-det.pages.dev">OPEN CINEVERSE →</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
