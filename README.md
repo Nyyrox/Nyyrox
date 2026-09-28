@@ -1,5 +1,3 @@
-<!-- showcase-cards-build -->
-
 # Mahfooz Alam
 
 <div align="center">
