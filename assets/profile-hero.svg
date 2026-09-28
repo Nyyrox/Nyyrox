@@ -1,0 +1,17 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1400" height="520" rx="28" fill="#0B0D12"/>
+<path d="M0 400C240 330 390 470 650 365C900 264 1050 350 1400 210V520H0V400Z" fill="#141925"/>
+<circle cx="1190" cy="100" r="180" fill="#6D5CFF" fill-opacity=".08"/>
+<circle cx="1280" cy="60" r="95" fill="#A78BFA" fill-opacity=".06"/>
+<rect x="62" y="58" width="1276" height="404" rx="22" stroke="#2B3040"/>
+<text x="92" y="124" fill="#8F96A8" font-family="monospace" font-size="15" letter-spacing="4">NYROX / INDEPENDENT DEVELOPER</text>
+<text x="92" y="218" fill="#F5F5F2" font-family="Georgia, serif" font-size="76" font-weight="700">Mahfooz Alam</text>
+<text x="96" y="268" fill="#A9B0BF" font-family="Arial, sans-serif" font-size="21">Building media products where interface, playback and infrastructure meet.</text>
+<line x1="96" y1="320" x2="1304" y2="320" stroke="#303544"/>
+<text x="96" y="366" fill="#737B8D" font-family="monospace" font-size="13" letter-spacing="2">CURRENT WORK</text>
+<text x="96" y="400" fill="#E8EAF0" font-family="Arial, sans-serif" font-size="19">ZENKAI</text>
+<text x="215" y="400" fill="#687082" font-family="Arial, sans-serif" font-size="19">anime · manga · novels</text>
+<text x="650" y="400" fill="#E8EAF0" font-family="Arial, sans-serif" font-size="19">CINEVERSE</text>
+<text x="790" y="400" fill="#687082" font-family="Arial, sans-serif" font-size="19">movies · tv · streaming</text>
+<text x="96" y="434" fill="#555D6D" font-family="monospace" font-size="12">PRODUCT / ENGINEERING / MEDIA</text>
+</svg>
