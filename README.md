@@ -48,11 +48,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyyrox&bg_color=0d1117&color=9aa4b2&line=7c5cff&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="GitHub activity graph" />
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
