@@ -1,3 +1,5 @@
+<!-- showcase-cards-build -->
+
 # Mahfooz Alam
 
 <div align="center">
@@ -22,99 +24,19 @@
 
 ## SELECTED WORK
 
-<table>
-<tr>
-<td width="100%" bgcolor="#101B30">
-
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
+<div align="center">
 
 <a href="https://github.com/Nyyrox/Zenkai">
-<img src="https://img2link.com/images/2026/09/28/bb593afe889488619ab18199eb079c79.jpg" width="230" alt="Zenkai app screenshot" />
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/zenkai-card.svg" width="100%" alt="Zenkai showcase card with embedded app screenshot" />
 </a>
 
-</td>
-<td width="64%" valign="middle">
-
-<sub>01 / ANDROID MEDIA PLATFORM</sub>
-
-# ZENKAI
-
-<sub>Watch. Read. Save. Connect.</sub>
-
----
-
-<b>FEATURES</b>
-
 <br/><br/>
-
-<b>MULTI-SERVER PLAYBACK</b><br/>
-<b>PICTURE-IN-PICTURE</b><br/>
-<b>DOWNLOAD MANAGER</b><br/>
-<b>MANGA + NOVEL READING</b><br/>
-<b>DISCORD RICH PRESENCE</b><br/>
-<b>COMMUNITY + LIBRARY</b>
-
-<br/><br/>
-
-<sub>KOTLIN · ANDROID · MEDIA · APIs</sub>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="100%" bgcolor="#17111F">
-
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
 
 <a href="https://cineverse-det.pages.dev">
-<img src="https://img2link.com/images/2026/09/28/b1e0cca654cae119b6a828f0c85c0f49.jpg" width="230" alt="Cineverse app screenshot" />
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/cineverse-card.svg" width="100%" alt="Cineverse showcase card with embedded app screenshot" />
 </a>
 
-</td>
-<td width="64%" valign="middle">
-
-<sub>02 / CINEMATIC STREAMING PLATFORM</sub>
-
-# CINEVERSE
-
-<sub>Discover movies and TV without the clutter.</sub>
-
----
-
-<b>PLATFORM</b>
-
-<br/><br/>
-
-<b>MOVIE + TV DISCOVERY</b><br/>
-<b>TMDB METADATA</b><br/>
-<b>MULTI-PROVIDER RESOLUTION</b><br/>
-<b>STREAM EXTRACTION</b><br/>
-<b>FASTAPI + PLAYWRIGHT</b><br/>
-<b>REACT + TYPESCRIPT</b>
-
-<br/><br/>
-
-<sub>CINEVERSE-DET.PAGES.DEV · MOVIES · TV</sub>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
