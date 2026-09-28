@@ -20,24 +20,6 @@
 
 ---
 
-## SELECTED WORK
-
-<div align="center">
-
-<a href="https://github.com/Nyyrox/Zenkai">
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/zenkai-card.svg" width="100%" alt="Zenkai showcase card" />
-</a>
-
-<br/><br/>
-
-<a href="https://cineverse-det.pages.dev">
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/cineverse-card.svg" width="100%" alt="Cineverse showcase card" />
-</a>
-
-</div>
-
----
-
 ## LINKS
 
 <div align="center">
