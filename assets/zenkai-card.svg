@@ -1,0 +1,32 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101B30"/><stop offset="1" stop-color="#182A43"/></linearGradient></defs>
+<rect width="1200" height="700" rx="24" fill="#0B0D12"/>
+<rect x="24" y="24" width="1152" height="652" rx="20" fill="url(#g)" stroke="#29344A"/>
+<text x="64" y="82" fill="#7E8CA6" font-family="monospace" font-size="14" letter-spacing="3">01 / ANDROID MEDIA PLATFORM</text>
+<text x="64" y="142" fill="#F7F8FB" font-family="Georgia, serif" font-size="54" font-weight="700">ZENKAI</text>
+<text x="64" y="178" fill="#AEB8C9" font-family="Arial" font-size="18">Watch. Read. Save. Connect.</text>
+<rect x="64" y="218" width="1072" height="1" fill="#334056"/>
+<rect x="64" y="252" width="650" height="350" rx="18" fill="#0C111B" stroke="#26334A"/>
+<rect x="88" y="278" width="180" height="270" rx="12" fill="#162338"/>
+<rect x="286" y="278" width="402" height="82" rx="12" fill="#111A29"/>
+<text x="310" y="311" fill="#EAF0FF" font-family="Arial" font-size="20" font-weight="700">Continue watching</text>
+<text x="310" y="338" fill="#7F8BA1" font-family="Arial" font-size="14">Your library · episodes · progress</text>
+<rect x="286" y="378" width="402" height="72" rx="12" fill="#111A29"/>
+<text x="310" y="409" fill="#EAF0FF" font-family="Arial" font-size="18">Downloads</text>
+<text x="310" y="433" fill="#7F8BA1" font-family="Arial" font-size="14">Offline episodes · storage</text>
+<rect x="286" y="468" width="190" height="80" rx="12" fill="#111A29"/>
+<text x="308" y="502" fill="#EAF0FF" font-family="Arial" font-size="16">Manga</text>
+<text x="308" y="526" fill="#7F8BA1" font-family="Arial" font-size="13">Progress</text>
+<rect x="498" y="468" width="190" height="80" rx="12" fill="#111A29"/>
+<text x="520" y="502" fill="#EAF0FF" font-family="Arial" font-size="16">Novels</text>
+<text x="520" y="526" fill="#7F8BA1" font-family="Arial" font-size="13">Reader</text>
+<text x="760" y="284" fill="#737F95" font-family="monospace" font-size="12" letter-spacing="2">FEATURES</text>
+<text x="760" y="324" fill="#F0F3FA" font-family="Arial" font-size="18">MULTI-SERVER PLAYBACK</text>
+<text x="760" y="360" fill="#F0F3FA" font-family="Arial" font-size="18">PICTURE-IN-PICTURE</text>
+<text x="760" y="396" fill="#F0F3FA" font-family="Arial" font-size="18">DOWNLOAD MANAGER</text>
+<text x="760" y="432" fill="#F0F3FA" font-family="Arial" font-size="18">MANGA + NOVEL READING</text>
+<text x="760" y="468" fill="#F0F3FA" font-family="Arial" font-size="18">DISCORD RICH PRESENCE</text>
+<text x="760" y="504" fill="#F0F3FA" font-family="Arial" font-size="18">COMMUNITY + LIBRARY</text>
+<line x1="760" y1="552" x2="1110" y2="552" stroke="#334056"/>
+<text x="760" y="585" fill="#7F8BA1" font-family="monospace" font-size="13">KOTLIN · ANDROID · MEDIA · APIs</text>
+</svg>
