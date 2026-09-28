@@ -1,9 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b1328"/><stop offset="1" stop-color="#2b1b36"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".45"/></filter><clipPath id="c"><rect x="105" y="84" width="300" height="520" rx="30"/></clipPath><style>.t{font:600 12px Arial;letter-spacing:3px;fill:#a69ab5}.h{font:700 46px Arial;fill:#f7f9fc}.p{font:16px Arial;fill:#c2b7ce}.f{font:600 18px Arial;fill:#f0eaf5}.l{font:700 12px Arial;letter-spacing:2px;fill:#a69ab5}</style></defs>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b1328"/><stop offset="1" stop-color="#2b1b36"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".45"/></filter>
+<clipPath id="c"><rect x="105" y="84" width="300" height="520" rx="30"/></clipPath>
+<style>.t{font:600 12px Arial;letter-spacing:3px;fill:#a69ab5}.h{font:700 46px Arial;fill:#f7f9fc}.p{font:16px Arial;fill:#c2b7ce}.f{font:600 18px Arial;fill:#f0eaf5}.l{font:700 12px Arial;letter-spacing:2px;fill:#a69ab5}.m{font:700 15px Arial;fill:#f5edf8}.s{font:12px Arial;fill:#988ba5}</style>
+</defs>
 <rect x="10" y="10" width="1180" height="600" rx="34" fill="url(#g)" stroke="#3a2c46" stroke-width="2"/>
 <text x="62" y="60" class="t">02 / CINEMATIC STREAMING PLATFORM</text><text x="62" y="115" class="h">CINEVERSE</text><text x="62" y="145" class="p">Discover movies and TV without the clutter.</text><line x1="62" y1="178" x2="1138" y2="178" stroke="#4a3857"/>
-<rect x="88" y="68" width="334" height="552" rx="42" fill="#080b12" stroke="#655574" stroke-width="2" filter="url(#s)"/><rect x="105" y="84" width="300" height="520" rx="30" fill="#0b0e15"/>
-<image x="105" y="84" width="300" height="520" preserveAspectRatio="xMidYMid slice" clip-path="url(#c)" href="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/cineverse-screen.jpg"/><rect x="225" y="91" width="60" height="7" rx="3.5" fill="#111722"/>
+<rect x="88" y="68" width="334" height="552" rx="42" fill="#080b12" stroke="#655574" stroke-width="2" filter="url(#s)"/>
+<rect x="105" y="84" width="300" height="520" rx="30" fill="#101019" stroke="#25202d"/>
+<g clip-path="url(#c)">
+<rect x="105" y="84" width="300" height="175" fill="#30203d"/>
+<circle cx="355" cy="120" r="75" fill="#5b3b69" opacity=".45"/>
+<text x="125" y="120" class="l">CINEVERSE</text>
+<text x="125" y="160" class="m">DISCOVER SOMETHING</text>
+<text x="125" y="181" class="m">WORTH WATCHING.</text>
+<rect x="125" y="202" width="112" height="28" rx="14" fill="#efe8f5"/><text x="142" y="221" class="s" fill="#1b1328">EXPLORE</text>
+<text x="125" y="285" class="l">TOP RANKED</text>
+<rect x="125" y="305" width="78" height="112" rx="10" fill="#2b2033"/><rect x="213" y="305" width="78" height="112" rx="10" fill="#3a2944"/><rect x="301" y="305" width="78" height="112" rx="10" fill="#261c30"/>
+<rect x="125" y="430" width="112" height="10" rx="5" fill="#31263a"/><rect x="125" y="448" width="76" height="7" rx="3" fill="#241d2b"/>
+<rect x="213" y="430" width="112" height="10" rx="5" fill="#31263a"/><rect x="213" y="448" width="76" height="7" rx="3" fill="#241d2b"/>
+</g>
+<rect x="225" y="91" width="60" height="7" rx="3.5" fill="#111722"/>
 <rect x="465" y="218" width="660" height="285" rx="24" fill="#0a0e17" stroke="#463850"/><text x="500" y="258" class="l">CINEVERSE / PLATFORM</text>
 <text x="500" y="300" class="f">MOVIE + TV DISCOVERY</text><text x="500" y="342" class="f">TMDB METADATA</text><text x="500" y="384" class="f">MULTI-PROVIDER RESOLUTION</text><text x="500" y="426" class="f">STREAM EXTRACTION</text><text x="500" y="468" class="f">FASTAPI + PLAYWRIGHT</text><text x="500" y="510" class="f">REACT + TYPESCRIPT</text>
-<line x1="500" y1="545" x2="1090" y2="545" stroke="#382d42"/><text x="500" y="578" class="l">CINEVERSE-DET.PAGES.DE · MOVIES · TV</text></svg>
+<line x1="500" y1="545" x2="1090" y2="545" stroke="#382d42"/><text x="500" y="578" class="l">CINEVERSE-DET.PAGES.DE · MOVIES · TV</text>
+</svg>
