@@ -1,115 +1,111 @@
 # Mahfooz Alam
 
----
-
-> *Nyyrox — building media products with an eye for the details.*
-
-— **CURRENTLY**  
-Building **Zenkai**, a native-focused anime, manga & novel platform, while evolving **Cineverse** into a faster cinematic streaming experience.
-
-— **ELSEWHERE**  
-[@Nyyrox](https://github.com/Nyyrox) · [Zenkai](https://github.com/Nyyrox/Zenkai) · [Cineverse](https://cineverse-det.pages.dev)
-
-— **WORK**
-
-1. **Zenkai** — A native Android media platform for anime, manga and novels, built around watching, reading, downloading and personal libraries.
-2. **Cineverse** — A cinematic movie & TV platform focused on discovery, metadata, multi-provider resolution and a minimal playback experience.
-
----
-
-## ZENKAI
-
-**Anime · Manga · Novels · Android**
-
-Zenkai is the main product I'm building — a single place to watch anime, read manga and novels, save content and keep track of what you're consuming.
-
-**Watching**
-- Multi-server anime playback
-- Direct stream playback
-- Picture-in-Picture
-- Playback optimizations
-- Caption translation
-- Smart playback state handling
-
-**Reading**
-- Manga reader
-- Manga reading progress
-- Novel reading
-- Personal library and watchlist
-
-**Offline**
-- Anime episode downloads
-- Download manager
-- Downloaded episode storage
-- Improved download reliability and scrolling
-- Local episode visibility and management
-
-**Connected**
-- Community features
-- Discord Rich Presence
-- Account-based library
-- Customization and personalization
-
-[VIEW ZENKAI →](https://github.com/Nyyrox/Zenkai)
-
----
-
-## CINEVERSE
-
-**Movies · TV · Streaming**
-
-Cineverse is the second focused product: a cinematic discovery and playback platform for movies and TV.
-
-**Core**
-- Movie & TV discovery
-- TMDB metadata
-- Multi-provider resolution
-- Stream extraction pipeline
-- FastAPI services
-- Playwright tooling
-- Responsive cinematic UI
-
-[OPEN CINEVERSE →](https://cineverse-det.pages.dev)
-
----
-
-## BUILDING BLOCKS
-
-**PRODUCT**  
-UI / UX · responsive interfaces · media players · reading experiences · motion · interaction design
-
-**ENGINEERING**  
-Kotlin · Android · React · TypeScript · JavaScript · Python · Node.js · APIs · databases
-
-**INFRASTRUCTURE**  
-Cloudflare · Railway · Supabase · Vercel · GitHub · Linux · deployment pipelines
-
-**MEDIA**  
-HLS · DASH · WebView playback · stream resolution · subtitles · downloads
-
----
-
-## CONTRIBUTION STACK
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/profile-hero.svg" width="100%" alt="Mahfooz Alam — Nyyrox profile" />
 
 </div>
 
 ---
 
-## GITHUB ACTIVITY
+> *Nyyrox — building media products where interface, playback and infrastructure meet.*
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyyrox&bg_color=0d1117&color=9aa4b2&line=7c5cff&point=ffffff&area=true&hide_border=true&radius=8" width="96%" alt="GitHub activity graph" />
+[<b>ZENKAI</b>](https://github.com/Nyyrox/Zenkai) &nbsp;·&nbsp;
+[<b>CINEVERSE</b>](https://cineverse-det.pages.dev) &nbsp;·&nbsp;
+[<b>GITHUB</b>](https://github.com/Nyyrox)
 
 </div>
 
 ---
 
-## TOOLBOX
+## SELECTED WORK
+
+<div align="center">
+
+<a href="https://github.com/Nyyrox/Zenkai">
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/zenkai-card.svg" width="100%" alt="Zenkai editorial product card" />
+</a>
+
+<br/><br/>
+
+<a href="https://cineverse-det.pages.dev">
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/cineverse-card.svg" width="100%" alt="Cineverse editorial product card" />
+</a>
+
+</div>
+
+---
+
+## THE WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ZENKAI
+
+<b>Anime · Manga · Novels · Android</b>
+
+A media platform built around watching, reading, downloading and keeping a personal library in one place.
+
+<b>WATCH</b><br/>
+Multi-server playback · direct streams · PiP · playback optimization · caption translation
+
+<br/><br/>
+
+<b>READ</b><br/>
+Manga reader · reading progress · novel reader · personal library
+
+<br/><br/>
+
+<b>OFFLINE</b><br/>
+Episode downloads · download manager · storage management · local episode visibility
+
+<br/><br/>
+
+<b>CONNECTED</b><br/>
+Community · Discord Rich Presence · accounts · customization
+
+<br/><br/>
+
+<a href="https://github.com/Nyyrox/Zenkai">VIEW REPOSITORY →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### CINEVERSE
+
+<b>Movies · TV · Streaming</b>
+
+A cinematic discovery and playback platform designed around fast metadata, provider resolution and a clean viewing flow.
+
+<b>DISCOVER</b><br/>
+Movies · TV · search · details · TMDB metadata
+
+<br/><br/>
+
+<b>RESOLVE</b><br/>
+Multi-provider resolution · stream extraction · FastAPI services
+
+<br/><br/>
+
+<b>ENGINEER</b><br/>
+React · TypeScript · Playwright · Railway
+
+<br/><br/>
+
+<a href="https://cineverse-det.pages.dev">OPEN CINEVERSE →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## STACK
 
 <div align="center">
 
@@ -119,25 +115,67 @@ HLS · DASH · WebView playback · stream resolution · subtitles · downloads
 
 ---
 
-## HOW I BUILD
+## CONTRIBUTION STACK
 
-**01 — EXPERIENCE FIRST**  
-The interface should feel deliberate before the feature list gets impressive.
+<div align="center">
 
-**02 — OWN THE SYSTEM**  
-Frontend, backend, APIs, Android, media pipelines and deployment all belong to the same product.
+<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
-**03 — REMOVE THE NOISE**  
-Features should make the core experience better, not make the interface busier.
+<br/><br/>
 
-**04 — SHIP AND ITERATE**  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyyrox&bg_color=0d1117&color=9aa4b2&line=7c5cff&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## BUILD NOTES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>01 — EXPERIENCE</b>
+
+Interfaces should feel deliberate. Motion, hierarchy, feedback and spacing are part of the product.
+
+</td>
+<td width="50%" valign="top">
+
+<b>02 — SYSTEMS</b>
+
+Frontend, backend, APIs, Android, media pipelines and infrastructure are treated as one system.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b>03 — RESTRAINT</b>
+
+Every feature has to improve the core experience. Less noise, better flows.
+
+</td>
+<td width="50%" valign="top">
+
+<b>04 — ITERATION</b>
+
 Build → test → break → fix → polish → ship.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-[ZENKAI](https://github.com/Nyyrox/Zenkai) · [CINEVERSE](https://cineverse-det.pages.dev) · [GITHUB](https://github.com/Nyyrox)
+[ZENKAI](https://github.com/Nyyrox/Zenkai) &nbsp;·&nbsp;
+[CINEVERSE](https://cineverse-det.pages.dev)
+
+<br/><br/>
+
+<sub>Designed, built and shipped by Nyyrox.</sub>
 
 </div>
 
