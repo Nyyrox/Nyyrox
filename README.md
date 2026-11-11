@@ -1,10 +1,5 @@
 # Nyrox
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nyyrox/Nyyrox/main/assets/profile-hero.svg" width="100%" alt="Nyrox profile" />
-
-</div>
 
 ---
 
