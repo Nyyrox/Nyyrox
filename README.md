@@ -1,4 +1,4 @@
-# Mahfooz Alam
+# Nyrox
 
 <div align="center">
 
